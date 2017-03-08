@@ -1,0 +1,11 @@
+server:
+    port: 8089
+    contextPath:
+
+# LOGGING
+logging:
+    file: logs/middlewares.log
+    pattern:
+        file: "%d{yyyy-MM-dd HH:mm:ss SSS} [%thread] %-5level %logger{36} - %msg%n"
+    level:
+        com.zte: INFO
