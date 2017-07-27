@@ -9,7 +9,7 @@ import javax.management.remote.JMXConnector;
 import java.io.IOException;
 
 /**
- * Created by ${10183966} on 12/5/16.
+ * Created by ${aires} on 12/5/16.
  */
 public class KafkaMetricsDataProvider {
     private static final String PRE_JMX_URL = "service:jmx:rmi:///jndi/rmi://";

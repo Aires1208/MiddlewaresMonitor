@@ -3,7 +3,7 @@ package com.aires.kafka.monitor.domain.model;
 import java.util.List;
 
 /**
- * Created by ${10183966} on 12/13/16.
+ * Created by ${aires} on 12/13/16.
  */
 public class ConsumedTopicInfoVo {
     List<ConsumedTopicInfo> consumedTopicInfo;

@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by 10183966 on 9/5/16.
+ * Created by aires on 9/5/16.
  */
 public class ProjectConfig {
     private static final Logger logger = LoggerFactory.getLogger(ProjectConfig.class);

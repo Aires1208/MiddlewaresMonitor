@@ -14,7 +14,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Created by 10183966 on 8/22/16.
+ * Created by aires on 8/22/16.
  */
 public class RegisterInfoHandler {
     private static final Logger logger = LoggerFactory.getLogger(RegisterInfoHandler.class);

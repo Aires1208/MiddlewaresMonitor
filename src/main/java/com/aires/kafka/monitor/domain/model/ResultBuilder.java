@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 
 
 /**
- * Created by 10183966 on 2016/10/10.
+ * Created by aires on 2016/10/10.
  */
 public class ResultBuilder {
     private String status = "OK";

@@ -3,7 +3,7 @@ package com.aires.ums.oespaas.mysql.bean;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 /**
- * Created by 10183966 on 8/18/16.
+ * Created by aires on 8/18/16.
  */
 @JsonSerialize(using = ClientSerializer.class)
 public class Client {

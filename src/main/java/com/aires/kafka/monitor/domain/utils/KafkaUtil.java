@@ -10,7 +10,7 @@ import javax.management.remote.JMXServiceURL;
 import java.io.IOException;
 
 /**
- * Created by 10183966 on 2016/12/05.
+ * Created by aires on 2016/12/05.
  */
 public class KafkaUtil {
 

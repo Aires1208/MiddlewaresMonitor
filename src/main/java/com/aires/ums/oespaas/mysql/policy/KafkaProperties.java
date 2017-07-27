@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by 10183966 on 9/6/16.
+ * Created by aires on 9/6/16.
  */
 public class KafkaProperties {
     private static final Logger logger = LoggerFactory.getLogger(KafkaProperties.class);

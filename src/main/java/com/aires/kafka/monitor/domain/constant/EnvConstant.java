@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.constant;
 
 /**
- * Created by 10172605 on 9/6/16.
+ * Created by aires on 9/6/16.
  */
 public final class EnvConstant {
     public static final String ZK_PORT = getZKPort();

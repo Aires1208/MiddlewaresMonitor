@@ -1,7 +1,7 @@
 package com.aires.ums.oespaas.mysql.bean;
 
 /**
- * Created by 10183966 on 8/17/16.
+ * Created by aires on 8/17/16.
  */
 public class DbBuilder {
     private String dbName;

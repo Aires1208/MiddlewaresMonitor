@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.model;
 
 /**
- * Created by 10183966 on 12/14/16.
+ * Created by aires on 12/14/16.
  */
 public class BrokerTopic {
     private String topic;

@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.constant;
 
 /**
- * Created by ${10183966} on 12/9/16.
+ * Created by ${aires} on 12/9/16.
  */
 public class MbeanName {
     public static final String MESSAGE_IN_PER_SEC = "kafka.server:type=BrokerTopicMetrics,name=MessagesInPerSec";

@@ -6,7 +6,7 @@ import com.aires.ums.oespaas.mysql.bean.buffer.Buffer;
 import com.aires.ums.oespaas.mysql.bean.buffer.FixedBuffer;
 
 /**
- * Created by 10183966 on 8/22/16.
+ * Created by aires on 8/22/16.
  */
 public class RegisterInfo {
     //rowkey=osNeId^collectTime

@@ -5,7 +5,7 @@ import com.aires.kafka.monitor.domain.model.KafkaMonitorInfo;
 import java.util.List;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 public interface KafkaMonitorRepo {
     void insertKafkaMonitorInfo(KafkaMonitorInfo monitorInfo);

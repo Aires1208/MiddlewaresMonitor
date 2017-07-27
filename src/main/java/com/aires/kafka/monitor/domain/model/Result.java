@@ -3,7 +3,7 @@ package com.aires.kafka.monitor.domain.model;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 public class Result {
     private String status = "OK";

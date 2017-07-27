@@ -3,7 +3,7 @@ package com.aires.ums.oespaas.mysql.bean.hbase;
 import com.aires.ums.oespaas.mysql.bean.DBInfoBean;
 
 /**
- * Created by 10183966 on 8/23/16.
+ * Created by aires on 8/23/16.
  */
 public class MonitorInfo {
     //rowkey=dbNeId^collectTime

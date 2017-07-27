@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.data.hadoop.hbase.HbaseTemplate;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 @Configuration
 public class ApplicationContext {

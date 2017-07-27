@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.model;
 
 /**
- * Created by ${10183966} on 12/15/16.
+ * Created by ${aires} on 12/15/16.
  */
 public class TopicPartitionInfo {
     private int partition;

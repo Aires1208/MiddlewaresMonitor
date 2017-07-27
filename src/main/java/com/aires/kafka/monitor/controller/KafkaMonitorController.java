@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController

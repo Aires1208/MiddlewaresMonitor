@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 10183966 on 8/23/16.
+ * Created by aires on 8/23/16.
  */
 public class OSInfoService {
     private static final Logger logger = LoggerFactory.getLogger(OSInfoService.class);

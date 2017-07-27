@@ -17,7 +17,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by 10183966 on 8/22/16.
+ * Created by aires on 8/22/16.
  */
 public class HBaseCheck {
     public static boolean isChecked = false;

@@ -3,7 +3,7 @@ package com.aires.kafka.monitor.domain.server;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * Created by ${10183966} on 12/13/16.
+ * Created by ${aires} on 12/13/16.
  */
 public interface ConsumerTopicInfoServer {
     JSONObject getConsumerTopicDetail(String zk, String name);

@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.model;
 
 /**
- * Created by ${10183966} on 12/8/16.
+ * Created by ${aires} on 12/8/16.
  */
 public class CombinedMetric {
     //"name":"Messages in /sec","mean":0.0 ,"min1":0.0,"min5":0.0,"min15":0.0

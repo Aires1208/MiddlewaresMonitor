@@ -13,7 +13,7 @@ import java.util.*;
 import static com.google.common.collect.Lists.newArrayList;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 public class ZookeeperFileOperator {
     private static final Logger LOGGER = LoggerFactory.getLogger(ZookeeperFileOperator.class);

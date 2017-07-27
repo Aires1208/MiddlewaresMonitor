@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Set;
 
 /**
- * Created by 10183966 on 8/23/16.
+ * Created by aires on 8/23/16.
  */
 public class OSInfoHandler {
     private static final Logger logger = LoggerFactory.getLogger(OSInfoHandler.class);

@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import static com.google.common.collect.Lists.newArrayList;
 
 /**
- * Created by ${10183966} on 12/13/16.
+ * Created by ${aires} on 12/13/16.
  */
 public class StringOperator {
     private static final long TWO_MIN_INTERVAL = 1000 * 60 * 2l;

@@ -7,7 +7,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * Created by ${10183966} on 12/21/16.
+ * Created by ${aires} on 12/21/16.
  */
 public class StringOperatorTest {
     @Test

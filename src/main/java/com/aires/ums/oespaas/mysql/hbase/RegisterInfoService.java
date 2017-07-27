@@ -1,7 +1,7 @@
 package com.aires.ums.oespaas.mysql.hbase;
 
 /**
- * Created by 10183966 on 8/22/16.
+ * Created by aires on 8/22/16.
  */
 
 import com.aires.ums.oespaas.mysql.bean.hbase.RegisterInfo;

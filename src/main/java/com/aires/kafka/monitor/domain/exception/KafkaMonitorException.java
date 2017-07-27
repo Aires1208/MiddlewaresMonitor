@@ -1,7 +1,7 @@
 package com.aires.kafka.monitor.domain.exception;
 
 /**
- * Created by ${10183966} on 12/6/16.
+ * Created by ${aires} on 12/6/16.
  */
 public class KafkaMonitorException extends RuntimeException {
     public static final String KAFKA_MONITOR_ALREADY_EXISTS = "kafka monitor info already exist in hbase";
