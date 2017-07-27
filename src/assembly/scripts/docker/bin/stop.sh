@@ -1,5 +1,4 @@
 #!/bin/sh
-
 kill_service()
 {
 	for pid in $(lsof -i :$1 | grep LISTEN | grep -v grep | awk '{print $2}');do
@@ -14,5 +13,4 @@ kill_service()
 		sleep 0.5s
 	done
 }
-
 kill_service 8089 middlewares
